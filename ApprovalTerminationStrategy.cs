@@ -1,11 +1,6 @@
-﻿using Microsoft.SemanticKernel.Agents.Chat;
+﻿using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.Agents;
-using Microsoft.SemanticKernel;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.SemanticKernel.Agents.Chat;
 
 #pragma warning disable SKEXP0110, SKEXP0001 
 
